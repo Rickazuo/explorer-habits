@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Daily-Track-Habits é um app para ajudar a rastrear os hábitos do cotidiano.
 O funcionamento de salvar os dados é no navegador local.
 
-- [Visite o projeto online](https://rickazuo.github.io/explorer-habits)
+- [Visite o projeto online](https://external.ink?to=rickazuo.github.io/explorer-habits)
 
 ## 🔖 Layout
 
